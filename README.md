@@ -13,7 +13,7 @@
 * LED * 4
 * Switch Button * 2
 
-<img src="https://github.com/CalvinHoMicrochip/APP-All-MCU-2023-Development-Resource/blob/main/Photo_All_2023.png" width="1280px">
+<img src="https://github.com/CalvinHoMicrochip/APP-All-MCU-2023-Development-Resource/blob/main/Photo_All_2023.png" >
 
 
 
