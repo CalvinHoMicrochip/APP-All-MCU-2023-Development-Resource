@@ -1,5 +1,6 @@
-# APP-All MCU 2023 開發資源及範例連結
-* 您可以在這裡下載到有關 APP-All MCU 2023 的相關開發資源
+# 您可以在這裡下載到有關 APP-All MCU 2023 的相關開發資源
+* [使用 AVR128DA48 MCU 讀取 MCP79411 的時間資訊並顯示於 OLED] (    )
+* [使用 AVR128DA48 MCU 讀取 MCP79411 的時間資訊並顯示於 TFT LCD] (   ) 
 # APP-All MCU 2023 實驗板上的共用資源如下
 * 一個 I2C 介面的六軸 IMU - BOSCH BMI323 
 * 一個 I2C 介面的 Lighting Sensor – Vishay 的VEML7700-TT
