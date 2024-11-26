@@ -1,5 +1,5 @@
 # 您可以在這裡下載到有關 APP-All MCU 2023 的相關開發資源
-* [使用 AVR128DA48 MCU 讀取 MCP79411 的時間資訊並顯示於 OLED] (    )
+* [使用 AVR128DA48 MCU 讀取 MCP79411 的時間資訊並顯示於 OLED] (https://github.com/CalvinHoMicrochip/MCP79411-RTCC-with-APP-All-MCU-2023-OLED)
 * [使用 AVR128DA48 MCU 讀取 MCP79411 的時間資訊並顯示於 TFT LCD] (   ) 
 # APP-All MCU 2023 實驗板上的共用資源如下
 * 一個 I2C 介面的六軸 IMU - BOSCH BMI323 
@@ -15,6 +15,7 @@
 * Switch Button * 2
 
 <img src="https://github.com/CalvinHoMicrochip/APP-All-MCU-2023-Development-Resource/blob/main/Photo_All_2023.png" >
+
 
 
 
